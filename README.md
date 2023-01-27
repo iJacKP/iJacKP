@@ -4,9 +4,9 @@
 
 ### :pushpin: &nbsp;About Me 
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently I'm a Full Stack Developer at [Tijuca](https://tijucaalimentos.com) and a Systems & Digital Media student at [UFC](https://www.ufc.br/)\
-&nbsp;&nbsp;&nbsp;:computer: :globe_with_meridians: &nbsp;Love languages and coding!\
-&nbsp;&nbsp;&nbsp;:house: :pushpin: &nbsp;Based in Brazil.
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently I'm a Full Stack Developer at [Tijuca](https://tijucaalimentos.com) and a Systems & Digital Media student at [UFC](https://www.ufc.br/) :tada:\
+&nbsp;&nbsp;&nbsp;:computer:  &nbsp;Love languages and coding! :globe_with_meridians:\
+&nbsp;&nbsp;&nbsp;:house:  &nbsp;Based in Brazil :pushpin:
 
 <p align="center">
   <a target="_blank" href="mailto:ijacksonpontes@gmail.com?subject=Olá%Jackson"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -45,7 +45,7 @@
 
 ![MongoDB](https://img.shields.io/badge/MONGODB-47A248.svg?&style=flat&logo=mongodb&logoColor=white)&nbsp;
 ![JQuery](https://img.shields.io/badge/JQUERY-0769AD.svg?&style=flat&logo=jquery&logoColor=white)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-777BB4.svg?&style=flat&logo=php&logoColor=white)&nbsp;\
+![PHP](https://img.shields.io/badge/PHP-777BB4.svg?&style=flat&logo=php&logoColor=white)&nbsp;
 
 
 </details>
