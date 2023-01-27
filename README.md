@@ -4,7 +4,7 @@
 
 &nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently I'm a Full Stack Developer at [Tijuca](https://tijucaalimentos.com) and a Systems & Digital Media student at [UFC](https://www.ufc.br/)\
 &nbsp;&nbsp;&nbsp;:computer: :globe_with_meridians: &nbsp;Love languages and coding!\
-&nbsp;&nbsp;&nbsp;:house: &nbsp;Living in Brazil.
+&nbsp;&nbsp;&nbsp;:house: :pushpin: &nbsp;Based in Brazil.
 
 <p align="center">
   <a target="_blank" href="mailto:ijacksonpontes@gmail.com?subject=Olá%Jackson"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -37,7 +37,7 @@
 </details>
 
 <details>
-  <summary><b>:brain: &nbsp; Exploit :monocle_face: </b></summary>
+  <summary><b> :monocle_face: &nbsp; Exploit</b></summary>
   <br/>
 
 
