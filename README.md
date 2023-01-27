@@ -1,3 +1,5 @@
+<img src="/images/jackspace.png" alt="Javascript">
+
 <h1> :rocket: Hey, Welcome to my space! :rocket: <h1> 
 
 ### :pushpin: &nbsp;About Me 
@@ -62,25 +64,25 @@
     <tr>
       <td align="center" width="96">
         <a href="#macropower-tech">
-          <img src="/images/svg/nodejs-seeklogo.com.svg" alt="NodeJS" width="48" height="48">
+          <img src="/images/nodeJS.png" alt="NodeJS" width="48" height="48">
         </a>
         <br>NodeJS
       </td>
       <td align="center" width="96">
         <a href="#macropower-tech">
-          <img src="/images/svg/react-original.svg" alt="ReactJS" width="48" height="48">
+          <img src="/images/reactJS.png" alt="ReactJS" width="48" height="48">
         </a>
         <br>ReactJS
       </td>
       <td align="center" width="96">
         <a href="#macropower-tech">
-          <img src="/images/svg/typescript-original.svg" alt="Typescript" width="48" height="48">
+          <img src="/images/typeScript.png" alt="Typescript" width="48" height="48">
         </a>
         <br>Typescript
       </td>
       <td align="center" width="96">
         <a href="#macropower-tech">
-          <img src="/images/svg/javascript-original.svg" alt="Javascript" width="48" height="48">
+          <img src="/images/javaScript.png" alt="Javascript" width="48" height="48">
         </a>
         <br>Javascript
       </td>
