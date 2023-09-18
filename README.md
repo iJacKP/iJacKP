@@ -4,7 +4,7 @@
 
 ### :pushpin: &nbsp;About Me 
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently I'm a Full Stack Developer at [Tijuca](https://tijucaalimentos.com) and a Systems & Digital Media student at [UFC](https://www.ufc.br/) :tada:\
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently I'm a DevOps at [GSD]([https://tijucaalimentos.com](https://goodsoftwaredev.com/)) and a Systems & Digital Media student at [UFC](https://www.ufc.br/) :tada:\
 &nbsp;&nbsp;&nbsp;:computer:  &nbsp;Love languages and coding! :globe_with_meridians:\
 &nbsp;&nbsp;&nbsp;:house:  &nbsp;Based in Brazil :pushpin:
 
