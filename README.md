@@ -4,9 +4,9 @@
 
 ### :pushpin: &nbsp;About Me 
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently I'm a DevOps at [GSD](https://goodsoftwaredev.com/) and a Systems & Digital Medias student at [UFC](https://www.ufc.br/) :tada:\
-&nbsp;&nbsp;&nbsp;:computer:  &nbsp;Love languages and coding! :globe_with_meridians:\
-&nbsp;&nbsp;&nbsp;:house:  &nbsp;Based in Brazil :pushpin:
+:technologist: Currently I'm a DevOps at [GSD](https://goodsoftwaredev.com/) and a Systems & Digital Medias student at [UFC](https://www.ufc.br/) :tada:\
+:computer: Love languages and coding! :globe_with_meridians:\
+:house: Based in Brazil :pushpin:
 
 <p align="center">
   <a target="_blank" href="mailto:ijacksonpontes@gmail.com?subject=Olá%Jackson"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
