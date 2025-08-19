@@ -115,7 +115,7 @@
       </td>
       <td align="center" width="96">
         <a href="#macropower-tech">
-          <img src="/images/NestJS.png" alt="NodeJS" width="48" height="48">
+          <img src="/images/nestJS.png" alt="NodeJS" width="48" height="48">
         </a>
         <br>NestJS
       </td>
@@ -127,7 +127,7 @@
       </td>
       <td align="center" width="96">
         <a href="#macropower-tech">
-          <img src="/images/NextJS.png" alt="NodeJS" width="48" height="48">
+          <img src="/images/nextJS.png" alt="NodeJS" width="48" height="48">
         </a>
         <br>NextJS
       </td>
