@@ -4,13 +4,17 @@
 
 ### :pushpin: &nbsp;About Me 
 
-:technologist: I have Bachelor’s Degree in Digital Systems and Media from [Federal University of Ceará (UFC)](https://www.ufc.br/) and currently I'm seeking new job opportunities :tada:\
-:computer: Love languages and coding! :globe_with_meridians:\
-:house: Based in Brazil :pushpin:
+### :pushpin: &nbsp;About Me 
+
+🎓 Bachelor’s Degree in Digital Systems and Media from [Federal University of Ceará (UFC)](https://www.ufc.br/)  
+💻 Full Stack Developer with experience in **Backend (Node.js, Nest.js, MongoDB, PostgreSQL)** and **Frontend (React, React Native, Next.js)**  
+☁️ DevOps skills with **Docker, Kubernetes, AWS, CI/CD pipelines, Grafana**  
+🌍 Based in Brazil — open to remote opportunities worldwide  
 
 <p align="center">
   <a target="_blank" href="mailto:ijacksonpontes@gmail.com?subject=Olá%Jackson"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://www.linkedin.com/in/jackson-pontes-80b2601a5/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="https://portfolio-jacksons-projects-4c298b4d.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 <hr/>
@@ -96,9 +100,9 @@
 <details>
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
   <br/>
-    <p align="center">
-        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=iJacKP&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iJacKP&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
-    </p>
+<p align="center">
+  <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=iJacKP&hide_border=true&theme=nightowl" />
+</p>
 </details>
 
 <hr/>
@@ -113,9 +117,21 @@
       </td>
       <td align="center" width="96">
         <a href="#macropower-tech">
+          <img src="/images/NestJS.png" alt="NodeJS" width="48" height="48">
+        </a>
+        <br>NestJS
+      </td>
+      <td align="center" width="96">
+        <a href="#macropower-tech">
           <img src="/images/reactJS.png" alt="ReactJS" width="48" height="48">
         </a>
         <br>ReactJS
+      </td>
+      <td align="center" width="96">
+        <a href="#macropower-tech">
+          <img src="/images/NextJS.png" alt="NodeJS" width="48" height="48">
+        </a>
+        <br>NextJS
       </td>
       <td align="center" width="96">
         <a href="#macropower-tech">
