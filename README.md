@@ -4,7 +4,7 @@
 
 ### :pushpin: &nbsp;About Me 
 
-:technologist: Currently I'm a DevOps at [GSD](https://goodsoftwaredev.com/) and a Systems & Digital Medias student at [UFC](https://www.ufc.br/) :tada:\
+:technologist: I have Bachelor’s Degree in Digital Systems and Media on [UFC](https://www.ufc.br/) and currently I'm seeking for new job opportunities :tada:\
 :computer: Love languages and coding! :globe_with_meridians:\
 :house: Based in Brazil :pushpin:
 
