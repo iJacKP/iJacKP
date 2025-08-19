@@ -4,8 +4,6 @@
 
 ### :pushpin: &nbsp;About Me 
 
-### :pushpin: &nbsp;About Me 
-
 🎓 Bachelor’s Degree in Digital Systems and Media from [Federal University of Ceará (UFC)](https://www.ufc.br/)  
 💻 Full Stack Developer with experience in **Backend (Node.js, Nest.js, MongoDB, PostgreSQL)** and **Frontend (React, React Native, Next.js)**  
 ☁️ DevOps skills with **Docker, Kubernetes, AWS, CI/CD pipelines, Grafana**  
